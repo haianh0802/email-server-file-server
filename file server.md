@@ -35,7 +35,16 @@ Ngoài ra, một số ưu điểm của file server cần được kể đến n
 ## File server gồm các loại nào?
 File server được phân thành 4 loại theo phương thức truy cập:
 
-FTP: File Transfer Protocol
-HTTP: Hypertext Transfer Protocol
-NFS: Network File System – Chủ yếu là cho UNIX, hệ thống tương tự UNIX
-SMB: CIFS/Server Message Block – Dùng cho Windows hoặc UNIX
+- FTP: File Transfer Protocol
+- HTTP: Hypertext Transfer Protocol
+- NFS: Network File System – Chủ yếu là cho UNIX, hệ thống tương tự UNIX
+- SMB: CIFS/Server Message Block – Dùng cho Windows hoặc UNIX
+
+# Cấu trúc của file server
+### Storage
+Đây là chức năng quan trọng nhất trong File server. Hiện nay, rất nhiều công nghệ được phát triển cho phép vận hành ổ đĩa theo nhóm và tạo thành 1 Disk arry. Disk arry được dùng để chứa bộ nhớ tạm, có chức năng hiện đại hơn như ảo hóa lưu trữ hay RAID. Nhờ các yếu tố dự phòng ngoài RAID mà Disk arry cũng giúp nâng cao độ sẵn sàng.
+
+### Network – attached storage
+Network – attached storage được kết nối với mạng máy tính, nó có khả năng lưu trữ dữ liệu cấp độ tập tin. Cũng nhờ vậy mà nhóm máy khách (client) không đồng nhất vẫn có thể truy cập dữ liệu.
+
+Hệ thống Network – attached storage bao gồm các thiết bị kết nối mạng với một hoặc nhiều ổ cứng, được xếp thành các RAID arry hoặc Storage container dự phòng. Network – attached storage cho phép quyền truy cập file, dùng các giao thức như SMB/CIFS, NFS, AFP chia sẻ file qua mạng.
