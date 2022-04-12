@@ -32,31 +32,36 @@ Phiên bản Microsoft Exchange Server này liên tục được nâng cấp v�
 ### Giải pháp mail server MDaemon
 MDaemon là một mail server mạnh, cạnh tranh trực tiếp với mail Microsoft exchange. Tuy nhiên mức giá thành của mail server này lại rẻ hơn so với Microsoft exchange. Khi sử dụng Mdaemon, bạn cần phải triển khai một máy chủ (server) và địa chỉ IP riêng. Mdaemon được thiết kế dựa trên ý tưởng sử dụng dial-up và các kết nối trực tiếp với những đặc điểm nổi trội như: 
 
-Thiết kế giao diện thân thiện với người dùng.
-Chạy được trên các hệ điều hành của Microsoft.
-Khả năng quản lý hàng trăm domain và hàng nghìn người dùng khác nhau. 
-Khoản phí để sử dụng MDaemon cho 200 người dùng dao động từ $7.000- $10.000. Ngoài ra, giải pháp mail server cho doanh nghiệp vừa và nhỏ nếu muốn thành công cũng phải đầu tư mạnh về việc đào tạo nhân viên. 
+- Thiết kế giao diện thân thiện với người dùng.
+- Chạy được trên các hệ điều hành của Microsoft.
+- Khả năng quản lý hàng trăm domain và hàng nghìn người dùng khác nhau. 
+- hoản phí để sử dụng MDaemon cho 200 người dùng dao động từ $7.000- $10.000. 
+Ngoài ra, giải pháp mail server cho doanh nghiệp vừa và nhỏ nếu muốn thành công cũng phải đầu tư mạnh về việc đào tạo nhân viên. 
 
 Xây dựng hệ thống mail server cho doanh nghiệp với Zimbra
 Zimbra được xây dựng dựa trên các mã nguồn mở. Giải pháp này cung cấp một hệ thống thư điện tử hoàn chỉnh gồm mail server và mail client. Chúng có thể chạy dễ dàng trên rất nhiều hệ điều hành khác nhau như: Windows, Linux, Mac,… Cho dù đây là một giải pháp mail cho doanh nghiệp khá ổn định, tuy nhiên nó lại không có nhiều tính năng nổi trội như 2 giải pháp trên. 
 
 ### Giải pháp Zimbra mail server có các ưu điểm như sau:
 
-Mức độ tin cậy cao: Việc di chuyển, sao lưu cũng như khôi phục mailbox của cá nhân hoặc nhóm người dùng được thực hiện với tốc độ nhanh chóng. 
-Hiệu quả về chi phí sử dụng: Zimbra lấy nguồn tài nguyên mở làm nền tảng giúp tiết kiệm chi phí hơn nhiều so với các giải pháp email server khác. 
-Khả năng mở rộng giúp cho hệ thống email này có thêm nhiều tính năng nâng cao.
-Tính bảo mật cao: Zimbra tích hợp chức năng chặn virus và spam sẵn đồng thời cung cấp cơ chế mã hóa S/MIME hiện đại cho người dùng. 
+- Mức độ tin cậy cao: Việc di chuyển, sao lưu cũng như khôi phục mailbox của cá nhân hoặc nhóm người dùng được thực hiện với tốc độ nhanh chóng. 
+- Hiệu quả về chi phí sử dụng: Zimbra lấy nguồn tài nguyên mở làm nền tảng giúp tiết kiệm chi phí hơn nhiều so với các giải pháp email server khác. 
+- Khả năng mở rộng giúp cho hệ thống email này có thêm nhiều tính năng nâng cao.
+- Tính bảo mật cao: Zimbra tích hợp chức năng chặn virus và spam sẵn đồng thời cung cấp cơ chế mã hóa S/MIME hiện đại cho người dùng. 
 
 ### Dịch vụ lưu trữ
 Gói dịch vụ lưu trữ email được cung cấp bởi các công ty lưu trữ Việt Nam. Với giải pháp này, nhà cung cấp hosting sẽ cài đặt phần mềm chạy trên một máy chủ. Sau đó cài đặt tên miền, email của công ty/doanh nghiệp trên máy chủ này. Tuy nhiên bạn cần tìm hiểu trước email công ty là gì, điều này khiến cho hệ thống chạy không được ổn định. 
 
 Tuy nhiên ưu điểm của gói email hosting này đã khiến các doanh nghiệp tin tưởng sử dụng chúng lâu dài:
 
-Số lượng mail gửi đi lớn (điều kiện email là hợp pháp)
-Dung lượng email vô cùng lớn (tùy theo các gói dịch vụ)
-Email được gửi tới tận ibox của các email server khác như: Google, Webmail, Yahoo,…
-Máy chủ server hỗ trợ các bản ghi SPF/DKIM và chống spam, viruts,…
-Băng thông sử dụng không giới hạn. 
+- Số lượng mail gửi đi lớn (điều kiện email là hợp pháp)
+
+- Dung lượng email vô cùng lớn (tùy theo các gói dịch vụ)
+
+- Email được gửi tới tận ibox của các email server khác như: Google, Webmail, Yahoo,…
+
+- Máy chủ server hỗ trợ các bản ghi SPF/DKIM và chống spam, viruts,…
+
+- Băng thông sử dụng không giới hạn. 
 
 ### Thư điện tử theo tên miền của Google
 Phần lớn người dùng Internet đều sẽ có một tài khoản Gmail bởi các tính năng của thư điện tử này có độ tin cậy rất tốt. Hơn nữa, dịch vụ này còn hỗ trợ cài đặt gmail cho doanh nghiệp theo tên miền riêng. Đó cũng chính là giải pháp email cho doanh nghiệp vừa và nhỏ không cần phải đầu tư về phần cứng, phần mềm,… toàn bộ đều được chạy trên nền tảng của Google với giao điện bắt mắt và vô cùng ổn định. 
