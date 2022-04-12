@@ -1,10 +1,27 @@
-Mail Server là gì?
+# Mail Server là gì?
 
 Mail Server (tên tiếng Việt là máy chủ điện tử) là một máy chủ sử dụng để nhận và gửi thư điện tử. Điều này đồng nghĩa với việc nhận mail của người gửi và gửi tới địa chỉ của người nhận. Tùy vào việc cài đặt của từng website mà người dùng có thể sử dụng web để nhận mail theo yêu cầu.
 
 Giải pháp mail server được sử dụng rộng rãi ở mọi doanh nghiệp. Đây được xem là phương tiện liên lạc không thể thiếu đối với khách hàng, đặc biệt là các công ty hay doanh nghiệp lớn nhỏ. Do tính tiện dụng và nhiều chức năng quan trọng như mức độ an toàn, chuyên nghiệp, khách hàng có thể quảng bá tên doanh nghiệp thông qua tên miền của website công ty mình. Đó cũng là lý do khiến việc xây dựng một mail server là vô cùng cần thiết nếu như các thành viên của công ty muốn tạo email tên miền riêng để gửi và nhận thư với đối tác bên ngoài.
 
-Lợi ích khi sử dụng mail server là gì?
+# Cách thức hoạt động của giải pháp Mail Server
+Mail Server hoạt động dựa trên 3 giao thức cơ bản bao gồm:
+
+Outgoing Mail Server
+
+Outgoing Mail Server hay Mail Server gửi đi sử dụng giao thức SMTP (Simple Mail Transfer Protocol). Đây là giao thức dịch chuyển mail đơn giản được dùng để liên lạc với server từ xa. Đồng thời cho phép gửi nhiều thư cùng một lúc tới các server khác nhau.
+
+Incoming Mail Server
+
+Giao thức này hay còn được biết đến dưới 2 hình thức:
+
+- POP3 (Post Office Protocol phiên bản 3): chuyển email tới lưu ở máy tính chứa Mail Client, thường là nội bộ máy tính của người dùng thông qua một ứng dụng email như Outlook, Mac Mail, Windows Mail…
+- IMAP (Internet Message Access Protocol) là phương thức phức tạp hơn cho phép nhiều client cùng lúc kết nối tới một Mailbox. Email từ Mailbox sẽ được sao chép tới máy client và bản gốc của Email vẫn sẽ được lưu trên giải pháp Mail Server.
+
+![image](https://user-images.githubusercontent.com/101684058/162867673-141bfdd1-5e7f-48c6-86c3-bfdafdde2c58.png)
+
+
+# Lợi ích khi sử dụng mail server là gì?
 
 - Trao đổi thông tin qua lại giữa các bộ phận trong công ty với nhau.
 - Cho phép người dùng khi gửi mail và nhận mail trực tiếp thông qua Internet với tên miền của cụ thể của từng công ty.
