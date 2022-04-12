@@ -35,7 +35,7 @@ MDaemon là một mail server mạnh, cạnh tranh trực tiếp với mail Micr
 - Thiết kế giao diện thân thiện với người dùng.
 - Chạy được trên các hệ điều hành của Microsoft.
 - Khả năng quản lý hàng trăm domain và hàng nghìn người dùng khác nhau. 
-- hoản phí để sử dụng MDaemon cho 200 người dùng dao động từ $7.000- $10.000. 
+- Khoản phí để sử dụng MDaemon cho 200 người dùng dao động từ $7.000- $10.000. 
 Ngoài ra, giải pháp mail server cho doanh nghiệp vừa và nhỏ nếu muốn thành công cũng phải đầu tư mạnh về việc đào tạo nhân viên. 
 
 Xây dựng hệ thống mail server cho doanh nghiệp với Zimbra
