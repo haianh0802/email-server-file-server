@@ -48,3 +48,22 @@ File server được phân thành 4 loại theo phương thức truy cập:
 Network – attached storage được kết nối với mạng máy tính, nó có khả năng lưu trữ dữ liệu cấp độ tập tin. Cũng nhờ vậy mà nhóm máy khách (client) không đồng nhất vẫn có thể truy cập dữ liệu.
 
 Hệ thống Network – attached storage bao gồm các thiết bị kết nối mạng với một hoặc nhiều ổ cứng, được xếp thành các RAID arry hoặc Storage container dự phòng. Network – attached storage cho phép quyền truy cập file, dùng các giao thức như SMB/CIFS, NFS, AFP chia sẻ file qua mạng.
+
+
+# Cách thức hoạt động của file server
+### Nguyên lý hoạt động của file server
+Đầu tiên, Các dữ liệu này có thể được truy cập bởi các workstation (máy trạm). Workstation này có thể kết nối được tới máy chủ khi các máy này chia sẻ quyền truy cập thông qua một mạng máy tính.
+
+Sau đó, Server sẽ thực hiện vai trò của mình trong sơ đồ Client-server. Trong sơ đồ này, các khách hàng (client) là các máy trạm sử dụng kho lưu trữ.
+Một File server thường không thực hiện bất kỳ phép tính toán hay chạy chương trình nào thay mặt cho khách hàng. Nó được thiết kế chủ yếu để cho phép lưu trữ nhanh chóng và lấy dữ liệu, các tính toán được thực hiện bởi các máy trạm.
+![image](https://user-images.githubusercontent.com/101684058/162874523-0f6b2727-00f4-46d0-8294-3b7548f7a0fb.png)
+
+# Những lưu ý khi lựa chọn file server
+File server là nơi lưu trữ, quản lý và chia sẻ dữ liệu chính của một doanh nghiệp, vì vậy khi lựa chọn file server cần lưu ý những vấn đề sau:
+
+- An toàn: Để đảm bảo an toàn cho tài liệu lưu trữ, bạn có thể áp dụng một số phương pháp như xây dựng cơ sở hạ tầng đạt chuẩn hoặc thực hiện các giải pháp khác.Hạ tầng: Cơ sở hạ tầng để đặt máy chủ cơ sở dữ liệu phải đáp ứng đầy đủ các yêu cầu tiêu chuẩn hoạt động. Ngoài ra phải đảm bảo File Server trực tuyến trong suốt thời gian công ty hoạt động hành chính hoặc 24/24 tùy từng trường hợp.
+- Giải pháp: bạn cần đảm bảo file server lúc nào cũng trong trạng thái sẵn sàng đối phó các trường hợp rủi ro có thể gây ra việc mất mát dữ liệu như: hỏng hóc phần cứng ( ổ cứng, raid lỗi…), sự cố cháy nổ máy chủ, shock điện…
+- Tiện ích: Tiện ích nằm ở khả năng mở rộng lưu trữ, thao tác đơn giản không đòi hỏi nhiều chuyên môn và không tốn nhiều thời gian của người sử dụng
+- Bảo mật: Đảm bảo dữ liệu chỉ được chia sẻ cho những đối tượng được cấp quyền trong hệ thống.
+- Tốc độ truyền tải: Tùy thuộc vào nhu cầu của người dùng.
+
