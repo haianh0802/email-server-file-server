@@ -42,4 +42,6 @@ Chọn Finish
 
 ![image](https://user-images.githubusercontent.com/101684058/163091141-d5800b25-6fb0-42ab-be90-d94594a3c9f9.png)
 
+Quá trình cài đặt được hoàn tất
 
+![image](https://user-images.githubusercontent.com/101684058/163097470-963bd4c7-2633-4397-a905-8adb3c5efa04.png)
