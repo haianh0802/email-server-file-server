@@ -27,3 +27,19 @@ Vào Gmail để lấy Key
 
 
 ![image](https://user-images.githubusercontent.com/101684058/163084588-78a9dbc7-c819-4130-b098-cd8d9e5f0795.png)
+
+Nhập tên domain và host name vào
+![image](https://user-images.githubusercontent.com/101684058/163085423-1259434a-59d0-47b7-9a56-fda357bf6e89.png)
+
+![image](https://user-images.githubusercontent.com/101684058/163085771-b6459722-1186-4f9b-9f0d-d75e38fbddef.png)
+
+Chọn Finish
+![image](https://user-images.githubusercontent.com/101684058/163085844-8f1f24e8-9d56-431c-85af-c73a1e1a190c.png)
+
+ 
+ ![image](https://user-images.githubusercontent.com/101684058/163085697-1a7ca50d-dcc1-4726-8228-25928953d553.png)
+
+
+![image](https://user-images.githubusercontent.com/101684058/163091141-d5800b25-6fb0-42ab-be90-d94594a3c9f9.png)
+
+
