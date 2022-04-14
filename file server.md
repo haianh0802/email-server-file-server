@@ -58,6 +58,14 @@ Sau đó, Server sẽ thực hiện vai trò của mình trong sơ đồ Client-
 Một File server thường không thực hiện bất kỳ phép tính toán hay chạy chương trình nào thay mặt cho khách hàng. Nó được thiết kế chủ yếu để cho phép lưu trữ nhanh chóng và lấy dữ liệu, các tính toán được thực hiện bởi các máy trạm.
 ![image](https://user-images.githubusercontent.com/101684058/162874523-0f6b2727-00f4-46d0-8294-3b7548f7a0fb.png)
 
+#Các hình thức file server:
+Nói đến chia sẻ dữ liệu tập trung hay còn gọi là file server thì chúng ta có nhiều hình thái khác nhau như :
++ Xây dựng máy chủ chạy trên nền tảng Linux or Windows Server
+
++ Hệ thống NAS
+
++ Giải pháp SAN
+
 # Những lưu ý khi lựa chọn file server
 File server là nơi lưu trữ, quản lý và chia sẻ dữ liệu chính của một doanh nghiệp, vì vậy khi lựa chọn file server cần lưu ý những vấn đề sau:
 
