@@ -14,7 +14,7 @@ Hiện nay, trên thị trường Việt Nam có rất nhiều tên tuổi nhà 
 Ứng dụng của NAS Synology tập trung chủ yếu vào chức năng lưu trữ dữ liệu và các ứng dụng nâng cao như ghi hình Camera giám sát, ứng dụng ảo hóa đám mây Cloud Station, backup an toàn dữ liệu, các chức năng giải trí:
 
 - Ghi hình Camera giám sát
-- 
+
 NAS Synology hỗ trợ giải pháp giám sát an ninh một cách chuyên nghiệp và bảo mật nhất bằng các cơ chế quản lý Camera IP. Theo dõi trực tiếp (Live View) ở bất kỳ đâu mà không cần đặt màn hình Live View ở gần camera.
 - Lưu trữ, back up và an toàn dữ liệu
 
