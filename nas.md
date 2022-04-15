@@ -9,7 +9,7 @@ Thiết bị NAS có thể được sử dụng với mục đích lưu trữ c�
 Về mặt phân khúc sản phẩm, có các loại NAS phục vụ nhu cầu cá nhân với cấu hình vừa phải có thể hỗ trợ 2 tới 8 ổ cứng đồng thời với giao tiếp iSCSI, RAID, phục hồi dữ liệu, sao lưu dữ liệu, máy chủ web, tường lửa,…
 
 Hiện nay, trên thị trường Việt Nam có rất nhiều tên tuổi nhà sản xuất thiết bị NAS từ các phân khúc tầm thấp tới phân khúc cao cấp như Synology, Asustor,WD, QNAP, TerraMaster.
-Ứng dụng của NAS điển hình là Synology NAS
+## Ứng dụng của NAS điển hình là Synology NAS
 
 Ứng dụng của NAS Synology tập trung chủ yếu vào chức năng lưu trữ dữ liệu và các ứng dụng nâng cao như ghi hình Camera giám sát, ứng dụng ảo hóa đám mây Cloud Station, backup an toàn dữ liệu, các chức năng giải trí:
 
@@ -17,7 +17,7 @@ Ghi hình Camera giám sát
 NAS Synology hỗ trợ giải pháp giám sát an ninh một cách chuyên nghiệp và bảo mật nhất bằng các cơ chế quản lý Camera IP. Theo dõi trực tiếp (Live View) ở bất kỳ đâu mà không cần đặt màn hình Live View ở gần camera.
 Lưu trữ, back up và an toàn dữ liệu
 NAS Synology cung cấp không gian lưu trữ mở rộng theo từng nhu cầu sử dụng của người dùng, hỗ trợ các thiết lập RAID và tính năng lắp nóng (hot-swap). Cho phép người dùng tự động sao lưu tập tin với những chế độ khác nhau như: sao lưu trong nội bộ DiskStation Synology, qua một DiskStation Synology khác hoặc ổ đĩa cứng gắn ngoài.
-Với chế độ phân quyền truy cập dữ liệu, NAS Synology đảm bảo sự bảo mật cho các dữ liệu của bạn.
+### Với chế độ phân quyền truy cập dữ liệu, NAS Synology đảm bảo sự bảo mật cho các dữ liệu của bạn.
 
 Ứng dụng Ảo hóa đám mây ưu việt (Cloud Station)
 Với giải pháp NAS Synology, bạn có thể làm việc online tại bất kỳ đâu, bằng mọi thiết bị như smartphone, tablet, laptop mà dữ liệu luôn trong tầm tay, và dữ liệu đó luôn là phiên bản mới nhất.
