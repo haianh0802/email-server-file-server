@@ -13,15 +13,19 @@ Hiện nay, trên thị trường Việt Nam có rất nhiều tên tuổi nhà 
 
 Ứng dụng của NAS Synology tập trung chủ yếu vào chức năng lưu trữ dữ liệu và các ứng dụng nâng cao như ghi hình Camera giám sát, ứng dụng ảo hóa đám mây Cloud Station, backup an toàn dữ liệu, các chức năng giải trí:
 
-Ghi hình Camera giám sát
+- Ghi hình Camera giám sát
+- 
 NAS Synology hỗ trợ giải pháp giám sát an ninh một cách chuyên nghiệp và bảo mật nhất bằng các cơ chế quản lý Camera IP. Theo dõi trực tiếp (Live View) ở bất kỳ đâu mà không cần đặt màn hình Live View ở gần camera.
-Lưu trữ, back up và an toàn dữ liệu
+- Lưu trữ, back up và an toàn dữ liệu
+
 NAS Synology cung cấp không gian lưu trữ mở rộng theo từng nhu cầu sử dụng của người dùng, hỗ trợ các thiết lập RAID và tính năng lắp nóng (hot-swap). Cho phép người dùng tự động sao lưu tập tin với những chế độ khác nhau như: sao lưu trong nội bộ DiskStation Synology, qua một DiskStation Synology khác hoặc ổ đĩa cứng gắn ngoài.
 ### Với chế độ phân quyền truy cập dữ liệu, NAS Synology đảm bảo sự bảo mật cho các dữ liệu của bạn.
 
-Ứng dụng Ảo hóa đám mây ưu việt (Cloud Station)
+- Ứng dụng Ảo hóa đám mây ưu việt (Cloud Station)
+
 Với giải pháp NAS Synology, bạn có thể làm việc online tại bất kỳ đâu, bằng mọi thiết bị như smartphone, tablet, laptop mà dữ liệu luôn trong tầm tay, và dữ liệu đó luôn là phiên bản mới nhất.
-Ứng dụng về giải trí
-Các ứng dụng về giải trí như Photo station cho phép bạn chia sẻ hình ảnh mọi lúc mọi nơi mà không cần upload; Video station, Audio station kho lưu trữ và chơi nhạc, video trên các thiết bị âm thanh hoặc TV điều khiển từ xa mà không cần bất kỳ một đầu phát nào khác;Download station hỗ trợ cho bạn Trung tâm tải về BitTorrent, FTP, HTTP, NZB, eMule, và RapidShare. Download mà không cần phải mở máy tính. Quá tuyệt phải không nào!
-Còn nữa không?
+- Ứng dụng về giải trí
+
+Các ứng dụng về giải trí như Photo station cho phép bạn chia sẻ hình ảnh mọi lúc mọi nơi mà không cần upload; Video station, Audio station kho lưu trữ và chơi nhạc, video trên các thiết bị âm thanh hoặc TV điều khiển từ xa mà không cần bất kỳ một đầu phát nào khác;Download station hỗ trợ cho bạn Trung tâm tải về BitTorrent, FTP, HTTP, NZB, eMule, và RapidShare. Download mà không cần phải mở máy tính. 
+
 Với những ứng dụng đã nêu, NAS Synology dường như đã đáp ứng đầy đủ các nhu cầu lưu trữ, chia sẻ, bảo mật và an toàn dữ liệu của không chỉ người dùng cá nhân, mà cả đối tượng doanh nghiệp. Và còn nhiều ứng dụng thiết thực thú vị khác mà bạn có thể tự mình khám phá bên trong NAS Synology
