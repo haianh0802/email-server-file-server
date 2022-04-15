@@ -1,3 +1,7 @@
+Tạo các bản ghi 
+![image](https://user-images.githubusercontent.com/101684058/163547615-d6b92d99-c6ab-46eb-876e-421a63ed2334.png)
+
+
 ## Chuẩn bị môi trường cho việc cài đặt Zimbra
 Cài đặt screen
 
