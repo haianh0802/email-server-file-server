@@ -34,3 +34,17 @@ Thay đổi ip
 
 ### Bước 4: Cài đặt Zimbra
 Thực hiện chạy lệnh sau để install Zimbra & ZCS dependencies
+
+`yum install unzip net-tools sysstat openssh-clients perl-core libaio nmap-ncat libstdc++.so.6 wget -y`
+
+Download Zimbra và cài đặt. Và bạn cần tạo một thư mục zimbra để cài vào đó
+`[root@mail ~]# mkdir zimbra && cd zimbra`
+`[root@mail zimbra]# wget https://files.zimbra.com/downloads/8.8.15_GA/zcs-8.8.15_GA_3869.RHEL7_64.20190918004220.tgz --no-check-certificate[root@mail ~]# mkdir zimbra && cd zimbra`
+
+![image](https://user-images.githubusercontent.com/101684058/163755785-1b086f4b-4852-44e7-b75c-8dddc3e22f3b.png)
+
+Sau khi download về hoàn tất bạn tiến hành giải nén file ra
+`tar zxpvf zcs*.tgz`
+Truy cập vào thư mục vừa giải nén và chạy lệnh ./install
+
+`root@mail zimbra]# cd zcs* && ./install.sh`
