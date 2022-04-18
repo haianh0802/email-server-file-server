@@ -1,42 +1,36 @@
-Tạo các bản ghi 
+### Bước 1: Tạo các bản ghi mail
 ![image](https://user-images.githubusercontent.com/101684058/163547615-d6b92d99-c6ab-46eb-876e-421a63ed2334.png)
 
+### Bước 2:  Kiểm tra và cập nhật hệ thống
+Bước đầu tiên bạn cần kiểm tra SELINUX xem có đang bật không, nếu đang bật thì bạn tắt đi.
 
-## Chuẩn bị môi trường cho việc cài đặt Zimbra
-Cài đặt screen
+`# vi /etc/selinux/config`
 
-` yum install screen -y`
+![image](https://user-images.githubusercontent.com/101684058/163749135-6228c124-54c1-4fb1-b7c4-17f920e0ff3f.png)
 
-Cài đặt hostname
+Thực hiện stop postfix và remove postfix.
 
-`hostnamectl set-hostname mail.vhost.vn` 
+Postfix là một phầm mềm nguồn mở được dùng để gửi mail (Mail Transfer Agent-MTA). Được phát hành bởi IBM với mục tiêu thay thế trình gửi mail phổ biến là sendmail. Nó được trang bị trên hệ điều hành do đó bạn hãy xoá bỏ để sử dụng dịch vụ riêng của Zimbra.
 
-Cấu hình lại files hosts
+`# systemctl stop postfix`
+`# yum remove postfix -y`
 
-`echo 103.143.208.217 mail.vhost.vn  mail > /etc/hosts`
+![image](https://user-images.githubusercontent.com/101684058/163752686-9d1f68a0-0447-437d-8810-0c56b70a74e7.png)
 
-Cài đặt Extra Packages for Enterprise Linux
+Sau đó bạn cập nhật hệ thống bằng lệnh sau và reboot lại máy chủ để áp dụng
+`# yum update -y ; reboot`
+### Bước 3: Kiểm tra và set hostname
+Bạn thực hiện kiểm tra hostname và set lại hostname tương ứng
+`# hostnamectl set-hostname mail.haianh82.xyz`
+`# exec bash`
 
-`yum install epel-release -y`
+![image](https://user-images.githubusercontent.com/101684058/163755163-88f1ecb0-9f74-4450-a260-6b9b2b1a53c6.png)
 
-Gỡ bỏ postfix mặc định của CentOS 7.
+Sau khi set hostname xong bạn thêm dòng sau vào file hosts
+Thay đổi ip
+`nano /etc/hosts`
 
-Do Zimbra cũng sử dụng postfix vì vậy bạn nên disabled hoặc gỡ bỏ postfix mặc định của CentOS để tránh gặp lỗi sau này.
+![image](https://user-images.githubusercontent.com/101684058/163755375-410e2114-291e-4ee9-b62f-10d58aedc9dc.png)
 
-`yum remove postfix -y`
-
-Cài đặt 1 số software khác hỗ trợ cho quá trình cài đặt.
-
-`yum install wget unzip -y`
-
-Cập nhật lại timzone của hệ thống.
-
-`timedatectl set-timezone Asia/Ho_Chi_Minh`
-
-Cấu hình lại nameserver của hệ thống để phân giải tên miền.
-
-`echo "nameserver 8.8.8.8" >> /etc/resolv.conf`
-
-Update lại hệ thống để đảm bảo máy chủ của bạn được cập nhật các bản vá mới nhất
-
-`yum update -y`
+### Bước 4: Cài đặt Zimbra
+Thực hiện chạy lệnh sau để install Zimbra & ZCS dependencies
