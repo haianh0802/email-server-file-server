@@ -48,3 +48,7 @@ Sau khi download về hoàn tất bạn tiến hành giải nén file ra
 Truy cập vào thư mục vừa giải nén và chạy lệnh ./install
 
 `root@mail zimbra]# cd zcs* && ./install.sh`
+
+
+![image](https://user-images.githubusercontent.com/101684058/163981870-960bd8b5-ed2c-4ec2-a670-7761fa26b6bc.png)
+
