@@ -1,5 +1,6 @@
 ### Bước 1: Tạo các bản ghi mail
-![image](https://user-images.githubusercontent.com/101684058/163547615-d6b92d99-c6ab-46eb-876e-421a63ed2334.png)
+
+![image](https://user-images.githubusercontent.com/101684058/164128643-5f1b2282-987c-4416-b762-3da147176fa9.png)
 
 ### Bước 2:  Kiểm tra và cập nhật hệ thống
 Bước đầu tiên bạn cần kiểm tra SELINUX xem có đang bật không, nếu đang bật thì bạn tắt đi.
