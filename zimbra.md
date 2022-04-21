@@ -129,6 +129,13 @@ Sau khi đã đăng nhập được vào webmail. Bạn hãy chọn Thư mới �
 ![image](https://user-images.githubusercontent.com/101684058/164418068-7f337087-6671-4e96-9c04-4c45d8643dc7.png)
 
 
-![image](https://user-images.githubusercontent.com/101684058/164419455-b6a6f86f-0166-4232-98b6-441b6c848d05.png)
+![image](https://user-images.githubusercontent.com/101684058/164430084-c23dd334-1a49-4531-8ed8-ca7ea7eb44e1.png)
+
+
+![image](https://user-images.githubusercontent.com/101684058/164422818-0cc8b4da-4616-4912-804e-3aaae8293292.png)
+
+![image](https://user-images.githubusercontent.com/101684058/164430672-885dfe0e-562f-4ae0-b4b5-af26bf56490c.png)
+
+![image](https://user-images.githubusercontent.com/101684058/164430917-67b66a7d-2607-4aa1-b24a-e0b05ff58da4.png)
 
 
