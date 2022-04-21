@@ -88,5 +88,7 @@ VD: https://192.168.154.128:7071/zimbraAdmin
 
 ![image](https://user-images.githubusercontent.com/101684058/164392395-7616d8ca-da0f-49e0-b619-08d4c0de827e.png)
 
+Giao zimbra
+
 ![image](https://user-images.githubusercontent.com/101684058/164392479-63886c88-0088-400d-944b-cfa6ac8a248b.png)
 
