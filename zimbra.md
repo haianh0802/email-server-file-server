@@ -150,4 +150,10 @@ Tại đây bạn có thể điền các thông tin cá nhân như tên và đ�
 
 Sau khi có danh bạ bạn có thể thực hiện gửi mail và tìm kiếm danh bạ ngay trên phần soạn Mail.
 
+### Lịch
+
+![image](https://user-images.githubusercontent.com/101684058/164436320-9484ad0d-e117-4a31-8222-bf1529811e26.png)
+
+![image](https://user-images.githubusercontent.com/101684058/164437674-f9017dc8-47f5-4b36-9184-a120dc102aa2.png)
+
 
