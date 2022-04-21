@@ -31,7 +31,7 @@ Sau khi set hostname xong bạn thêm dòng sau vào file hosts
 Thay đổi ip
 `nano /etc/hosts`
 
-![image](https://user-images.githubusercontent.com/101684058/163755375-410e2114-291e-4ee9-b62f-10d58aedc9dc.png)
+![image](https://user-images.githubusercontent.com/101684058/164372862-1a06a17d-6a37-4176-b678-9d50e8109007.png)
 
 ### Bước 4: Cài đặt Zimbra
 Thực hiện chạy lệnh sau để install Zimbra & ZCS dependencies
@@ -52,4 +52,8 @@ Truy cập vào thư mục vừa giải nén và chạy lệnh ./install
 
 
 ![image](https://user-images.githubusercontent.com/101684058/163981870-960bd8b5-ed2c-4ec2-a670-7761fa26b6bc.png)
+
+
+
+![image](https://user-images.githubusercontent.com/101684058/164389586-7a641788-4a03-460b-baa9-b6da997dfc6b.png)
 
