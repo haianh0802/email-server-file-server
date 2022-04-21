@@ -54,6 +54,28 @@ Truy cập vào thư mục vừa giải nén và chạy lệnh ./install
 ![image](https://user-images.githubusercontent.com/101684058/163981870-960bd8b5-ed2c-4ec2-a670-7761fa26b6bc.png)
 
 
+Khi cài đặt xong bạn hãy khởi động lại dịch vụ Zimbra bằng lệnh sau
+
+`[root@mail ~]# su zimbra`
+`[zimbra@mail root]$ zmcontrol restart`
 
 ![image](https://user-images.githubusercontent.com/101684058/164389586-7a641788-4a03-460b-baa9-b6da997dfc6b.png)
+
+## Bước 5: Mở Port Firewall
+Như vậy là đã hoàn tất rồi nhé, nếu máy chủ bạn có cài Firewall bạn cần mở các port sau ra để email hoạt động
+
+Dưới đây là các Port bạn cần mở
+
+`firewall-cmd --permanent --add-port={25,80,110,143,443,465,587,993,995,5222,5223,9071,7071}/tcp`
+`firewall-cmd --reload`
+
+![image](https://user-images.githubusercontent.com/101684058/164390332-84efd190-0366-4c9b-914c-c3b8f0c46a1f.png)
+
+Sau đó bạn truy cập admin zimbra bằng IP:port qua giao thức https nhé
+
+VD: https://192.168.154.128:7071/zimbraAdmin
+
+![image](https://user-images.githubusercontent.com/101684058/164392395-7616d8ca-da0f-49e0-b619-08d4c0de827e.png)
+
+![image](https://user-images.githubusercontent.com/101684058/164392479-63886c88-0088-400d-944b-cfa6ac8a248b.png)
 
