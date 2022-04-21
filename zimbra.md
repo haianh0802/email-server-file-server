@@ -119,4 +119,16 @@ Bây giờ bạn sẽ thấy các tài khoản hiện có ở đây.
 ### Đăng nhập vào Webmail
 Sau khi tạo xong tài khoản. Bạn hãy truy cập vào https://your-my-ip hoặc là https://my-domain để đăng nhập vào trang webmail
 
+![image](https://user-images.githubusercontent.com/101684058/164416945-afcee308-5f16-4865-a443-4c29127be269.png)
+
+![image](https://user-images.githubusercontent.com/101684058/164417204-c562f7d7-dd7c-4a02-abd1-1cf20eb7384c.png)
+
+### Soạn và gửi Mail
+Sau khi đã đăng nhập được vào webmail. Bạn hãy chọn Thư mới để bắt đầu soạn và gửi mail nhé.
+
+![image](https://user-images.githubusercontent.com/101684058/164418068-7f337087-6671-4e96-9c04-4c45d8643dc7.png)
+
+
+![image](https://user-images.githubusercontent.com/101684058/164419455-b6a6f86f-0166-4232-98b6-441b6c848d05.png)
+
 
