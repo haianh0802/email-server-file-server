@@ -92,3 +92,31 @@ Giao zimbra
 
 ![image](https://user-images.githubusercontent.com/101684058/164392479-63886c88-0088-400d-944b-cfa6ac8a248b.png)
 
+# Một số thao tác 
+### Tạo tài khoản mail trên Zimbra
+
+Truy cập vào trang quản lý
+
+![image](https://user-images.githubusercontent.com/101684058/164401547-9d36f45c-1283-44e5-a0a9-76c697ab35ee.png)
+
+Sau đó bạn để ý ở góc phải trên cùng. Hãy click vào nơi minh khoanh và chọn MỚI để tạo mới.
+
+![image](https://user-images.githubusercontent.com/101684058/164402672-c1b655d0-43af-45a7-9283-2be0204ed734.png)
+
+giao diện tạo tài khoản xuất hiện. Bạn hãy nhập vào các thông tin cá nhân để tạo.
+
+![image](https://user-images.githubusercontent.com/101684058/164403565-6bb1c679-6cfc-46a7-ba36-2ed1027bd788.png)
+
+Tiêp theo bạn kéo thanh cuốn bên tay phải xuống dưới nhập Passwd User và nhập lại Passwd. Sau khi điền chính xác thì click finish
+
+![image](https://user-images.githubusercontent.com/101684058/164403726-a8e61b92-ac79-4214-91e2-67af39a3be69.png)
+
+Bây giờ bạn sẽ thấy các tài khoản hiện có ở đây.
+
+![image](https://user-images.githubusercontent.com/101684058/164403831-ae4df40b-1af4-4e6a-9abb-77e4d3b8d150.png)
+
+
+### Đăng nhập vào Webmail
+Sau khi tạo xong tài khoản. Bạn hãy truy cập vào https://your-my-ip hoặc là https://my-domain để đăng nhập vào trang webmail
+
+
