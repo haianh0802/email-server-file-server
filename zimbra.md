@@ -138,4 +138,16 @@ Sau khi đã đăng nhập được vào webmail. Bạn hãy chọn Thư mới �
 
 ![image](https://user-images.githubusercontent.com/101684058/164430917-67b66a7d-2607-4aa1-b24a-e0b05ff58da4.png)
 
+### Danh bạ
+
+![image](https://user-images.githubusercontent.com/101684058/164432252-d1c9f1cf-d618-4a4a-8506-2711d0b8d9fb.png)
+
+Tại đây bạn có thể điền các thông tin cá nhân như tên và địa chỉ Email v.v , sau khi hoàn tất điền bạn có thể nhấn Lưu để hoàn tất.
+
+![image](https://user-images.githubusercontent.com/101684058/164434285-e49f7a37-3ce6-4c8d-9237-ae97ca47da0b.png)
+
+![image](https://user-images.githubusercontent.com/101684058/164434330-732d23f8-9a4f-46b2-a069-5de366211c5e.png)
+
+Sau khi có danh bạ bạn có thể thực hiện gửi mail và tìm kiếm danh bạ ngay trên phần soạn Mail.
+
 
