@@ -156,4 +156,27 @@ Sau khi có danh bạ bạn có thể thực hiện gửi mail và tìm kiếm d
 
 ![image](https://user-images.githubusercontent.com/101684058/164437674-f9017dc8-47f5-4b36-9184-a120dc102aa2.png)
 
+### Công việc
+
+Chọn công việc mới 
+
+![image](https://user-images.githubusercontent.com/101684058/164627505-ac22d535-2148-4d07-956e-34a9dc3d1bd3.png)
+
+Điền đầy đủ thông tin cần thiết
+
+![image](https://user-images.githubusercontent.com/101684058/164627933-6d37cc52-a2e0-4973-851b-18e992bc31f1.png)
+
+Thông báo nhắc nhở
+
+![image](https://user-images.githubusercontent.com/101684058/164628258-93fae27b-558d-4524-89f1-86916f57124c.png)
+
+### Cặp tài liệu
+
+chọn thêm mới tài liệu
+
+![image](https://user-images.githubusercontent.com/101684058/164628520-83ab76c3-6d38-4504-ba2e-aa7d9cd1dc24.png)
+
+Điền thông tin tài liệu cần lưu trữ lại và bấm lưu 
+
+![image](https://user-images.githubusercontent.com/101684058/164628853-1aed54fa-a462-4de7-945b-1ba850248c75.png)
 
