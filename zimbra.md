@@ -180,3 +180,7 @@ chọn thêm mới tài liệu
 
 ![image](https://user-images.githubusercontent.com/101684058/164628853-1aed54fa-a462-4de7-945b-1ba850248c75.png)
 
+### Tùy chọn
+
+![image](https://user-images.githubusercontent.com/101684058/164643251-0e1cc91a-ae75-47ba-9ff2-37b947a8be37.png)
+
