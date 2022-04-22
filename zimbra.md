@@ -184,3 +184,63 @@ chọn thêm mới tài liệu
 
 ![image](https://user-images.githubusercontent.com/101684058/164643251-0e1cc91a-ae75-47ba-9ff2-37b947a8be37.png)
 
+# Các  lỗi  thường gặp ở Zimbra
+
+#### 1. mta stopped + postfix is not running
+
+Khắc phục :
+
+#service postfix stop
+
+#chkconfig postfix off
+
+#su – zimbra
+
+$zmcontrol restart
+
+#### 2. Ldap failed khi setup Zimbra
+Khắc phục : 
+
+#vi /etc/sudoers
+
+Tìm đến dòng Defaults requiretty và thêm # đằng trước
+
+#Defaults requiretty
+
+#### 3. Starting zmconfigd…/opt/zimbra/bin/zmconfigdctl: line 94: 17418 Killed
+Khắc phục :
+
+#su root
+
+#vi /etc/hosts
+
+Thêm # như dòng sau :
+
+##::1 localhost localhost.localdomain localhost6 localhost6.localdomain6
+
+#su zimbra
+
+#zmcontrol restart
+
+#### 4. stat stoped
+Khắc phục :
+
+#vi /etc/hosts
+
+#### 5. mysql , zmconfigd is not running 
+Khắc phục :
+
+#zmcontrol stop
+
+#rm -rf /opt/zimbra/db/data/*
+
+#/opt/zimbra/libexec/zmmyinit
+
+#zmcontrol restart
+
+#### 6. dnscache is not running
+Khắc phục : 
+
+#su zimbra
+
+#zmdnscachectl stop
